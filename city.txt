@@ -1,0 +1,16 @@
+jaipur,22,34
+udaipur,34,12
+delhi,44,52
+varansi,41,55
+hyderabad,32,77
+banglor,55,67
+shangai,56,98
+kota,34,23
+aagra,55,23
+channai,76,45
+gurgav,87,24
+junjunu,67,34
+kolkata,87,23
+mumbai,43,56
+nagpur,86,23
+bhopal,87,45
